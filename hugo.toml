@@ -1,7 +1,22 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://tejbindu.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'paperMod'
+title = 'Departure from The Cave'
+theme = 'PaperMod'
+
+[params]
+ShowReadingTime = true
+ShowPostNavLinks = true
+
+[params.homeInfoParams]
+Title = "Welcome"
+Content = "Documenting my learnings while trying to escape Plato's Cave. Hope you enjoy reading them."
+
+[menu]
+[[menu.main]]
+Title = "Posts"
+name = "Posts"
+url = "/posts/"
+weight = 10
 
 [caches]
   [caches.images]

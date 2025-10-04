@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Departure from The Cave</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Departure from The Cave</description>
+    <title>Quantum on Departure from The Cave</title>
+    <link>http://localhost:1313/tags/quantum/</link>
+    <description>Recent content in Quantum on Departure from The Cave</description>
     <generator>Hugo -- 0.150.1</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Oct 2025 23:20:47 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/quantum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stabilizer Circuits and their Simulation on Classical Computers</title>
       <link>http://localhost:1313/posts/clifford-stabilizer/</link>

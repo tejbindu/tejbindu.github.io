@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Ai on Departure from The Cave</title>
+    <link>http://localhost:1313/tags/ai/</link>
+    <description>Recent content in Ai on Departure from The Cave</description>
+    <generator>Hugo -- 0.150.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Oct 2025 23:20:47 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graph Neural Networks for Dummys</title>
+      <link>http://localhost:1313/posts/graph-neural-networks/</link>
+      <pubDate>Fri, 03 Oct 2025 23:20:47 -0400</pubDate>
+      <guid>http://localhost:1313/posts/graph-neural-networks/</guid>
+      <description>&lt;h2 id=&#34;graph-neural-networks&#34;&gt;Graph Neural Networks&lt;/h2&gt;
+&lt;p&gt;Graph Neural Networks operate on graphs!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

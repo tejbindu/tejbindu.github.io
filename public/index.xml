@@ -9,6 +9,14 @@
     <lastBuildDate>Fri, 03 Oct 2025 23:20:47 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Graph Neural Networks for Dummys</title>
+      <link>http://localhost:1313/posts/graph-neural-networks/</link>
+      <pubDate>Fri, 03 Oct 2025 23:20:47 -0400</pubDate>
+      <guid>http://localhost:1313/posts/graph-neural-networks/</guid>
+      <description>&lt;h2 id=&#34;graph-neural-networks&#34;&gt;Graph Neural Networks&lt;/h2&gt;
+&lt;p&gt;Graph Neural Networks operate on graphs!&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Stabilizer Circuits and their Simulation on Classical Computers</title>
       <link>http://localhost:1313/posts/clifford-stabilizer/</link>
       <pubDate>Fri, 03 Oct 2025 23:20:47 -0400</pubDate>
